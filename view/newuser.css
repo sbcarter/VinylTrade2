@@ -1,0 +1,16 @@
+body {
+    padding-top: 50px;
+    padding-bottom: 25px;
+    background-color: #BDBDBD;
+}
+.starter-template {
+  padding: 40px 15px;
+  text-align: center;
+}
+.main {
+    padding-bottom: 25px;
+}
+.center_content {
+    margin: auto;
+    width: 40%;
+}

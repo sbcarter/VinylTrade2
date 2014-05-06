@@ -1,0 +1,21 @@
+body {
+    padding-top: 50px;
+    margin: auto;
+    width: 70%;
+    background-color: #BDBDBD;
+}
+.condtion {
+    word-wrap: normal;
+    width: 150px;
+    height: auto;
+}
+.center_content {
+    margin: auto;
+    width: 70%;
+}
+.error {
+    color: red;
+    font-size: 14pt;
+}
+
+    
